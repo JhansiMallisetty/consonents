@@ -1,0 +1,22 @@
+1)package main
+
+import "fmt"
+
+func main() {
+   fmt.Printf("kloud\tone!")
+}
+
+kloud	one!
+Program exited.
+
+2)package main
+
+import "fmt"
+
+func main() {
+   fmt.Printf("kloud\none!")
+}
+
+kloud
+one!
+Program exited.
